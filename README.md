@@ -1,14 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Ahmad%20Jaber&fontSize=42&fontAlign=50&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlign=50&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=Ahmad%20Jaber&fontSize=42&fontAlign=50&fontAlignY=38&desc=Backend%20Software%20Engineer%20•%20SDE%20@%20Amazon&descAlign=50&descAlignY=58"/>
 
 </div>
-
-<h3 align="center">
-Junoir Sofware Engineer • Ex Amazon SDE
-</h3>
-
 
 <div align="center">
 
